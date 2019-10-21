@@ -1,6 +1,21 @@
-.container{
-    text-align:center;
+body {
+    background: lightblue url("https://media0.giphy.com/media/ygAaR0n5RsyAM/source.gif") no-repeat fixed center;
+    background-size: 1600px;
 }
-body{
-    background:pink;
+.mb-3 {
+    color: #00EAFF;
+    font-family: 'Exo 2', sans-serif;
+}
+.output {
+    color:#0D00FF;
+}
+h1 {
+    color: #00EAFF;
+}
+input {
+    margin: 170px;
+    margin-right:0px;
+}
+button{
+    margin: 10px;
 }
